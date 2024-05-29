@@ -1,0 +1,591 @@
+Step 1: Calculate the annual income from selling lemons. 
+7 lemons * $1.5 per lemon = $10.5
+
+Step 2: Subtract the annual cost of watering and feeding the tree from the annual income.
+$10.5 - $3 = $7.5
+
+Step 3: Calculate how many years it will take to cover the initial cost of planting the tree.
+$90 / $7.5 per year = 12 years
+
+So, it will take Carlos 12 years before he starts earning money on the lemon tree. answer: 13
+1. Candice started with 80 post-it notes.
+2. She used 220 post-it notes at work.
+3. She had 23 post-it notes remaining.
+
+To find out how many Post-it notes were in the package that Candice purchased, we need to add the number of notes she used at work and the number of notes she had left, then subtract the number of notes she started with.
+
+So, the calculation is:
+
+220 (notes used at work) + 23 (notes remaining) - 80 (notes she started with) = 163
+
+Therefore, the package of Post-it notes that Candice purchased contained 163 notes. answer: 163
+1. Marcy gets an annual pension of $50,000/year if she works for 40 years.
+2. Starting after 20 years, she becomes entitled to 5% of the value of the pension per year.
+3. She quits after 30 years.
+
+Step 1: Calculate the total percentage of the pension Marcy is entitled to after 30 years. She starts earning the 5% after 20 years, so she has been earning it for 10 years (30 years - 20 years = 10 years). 
+
+5% * 10 years = 50%
+
+Step 2: Calculate the value of the pension Marcy is entitled to. 
+
+50% of $50,000 = $25,000
+
+So, if Marcy quits after 30 years, her annual pension will be $25,000. answer: 25000
+1. Sylvie's initial monthly salary is $600. So, her annual salary is $600 * 12 = $7200.
+
+2. The company increases the salaries of its employees by 10% every year after five years of service. 
+
+3. Sylvie has already worked for the company for five years, so she is eligible for the annual increase.
+
+4. We need to calculate Sylvie's annual salary after three more years of service.
+
+5. After the first year, her salary will be $7200 + ($7200 * 10/100) = $7200 + $720 = $7920.
+
+6. After the second year, her salary will be $7920 + ($7920 * 10/100) = $7920 + $792 = $8712.
+
+7. After the third year, her salary will be $8712 + ($8712 * 10/100) = $8712 + $871.20 = $9583.20.
+
+So, Sylvie's annual salary after three more years of service will be $9583.20. answer: 9360
+1. Adrien's salary four years ago was $40000.
+2. Four years later, Adrien's salary increased by 40%. So, his new salary is $40000 + 40/100 * $40000 = $56000.
+3. Adrien's total salary was 30 percent higher than Lylah's. So, Lylah's salary four years ago was $40000 / 1.3 = $30769.23 (approximately).
+4. Adrien's and Lylah's salary increased simultaneously. If Adrien's salary increased by 40%, Lylah's salary also increased by 40%. So, Lylah's new salary is $30769.23 + 40/100 * $30769.23 = $43076.92 (approximately).
+5. The total salary that Adrien and Lylah were receiving four years later is $56000 + $43076.92 = $99076.92. 
+
+So, the total salary that Adrien and Lylah were receiving four years later is approximately $99076.92. answer: 95200
+First, convert the length of the rolls and croissants from inches to feet. There are 12 inches in a foot, so:
+
+- The rolls are 300 * 4 / 12 = 100 feet long in total.
+- The croissants are 120 * 6 / 12 = 60 feet long in total.
+
+The baguettes are already in feet, so they are 60 * 2 = 120 feet long in total.
+
+So, if Bill puts all the baked goods end to end, they will be 100 + 60 + 120 = 280 feet long. answer: 280
+1. The bakery produces 60 loaves of bread each day.
+2. Two-thirds of the loaves are sold in the morning. So, 60 * 2/3 = 40 loaves are sold in the morning.
+3. This leaves 60 - 40 = 20 loaves of bread.
+4. Half of what is left is sold equally in the afternoon and evening. So, 20 / 2 = 10 loaves are sold in the afternoon.
+
+So, 10 loaves of bread are sold in the afternoon. answer:10
+
+1. It takes 20 minutes for the oil to heat up to 300 degrees.
+2. It takes 40% longer for the oil to heat up to the desired temperature of 400 degrees. 40% of 20 minutes is 8 minutes, so it takes 20 + 8 = 28 minutes to heat up to 400 degrees.
+3. After warming the oil it takes 5 minutes less time to cook than it took to warm up the oil. So, it takes 28 - 5 = 23 minutes to cook the chicken.
+
+Adding up all these times, it takes 20 (to heat to 300 degrees) + 28 (to heat to 400 degrees) + 23 (to cook the chicken) = 71 minutes from starting the oil to having cooked chicken. answer: 91
+1. The bakery produces 60 loaves of bread each day.
+2. Two-thirds of the loaves are sold in the morning. That means 60 * 2/3 = 40 loaves are sold in the morning.
+3. So, there are 60 - 40 = 20 loaves left.
+4. Half of what is left is sold equally in the afternoon and evening. That means 20 / 2 = 10 loaves are sold in the afternoon and evening.
+
+So, 10 loaves of bread are sold in the afternoon. answer: 10
+- Josh starts off practicing juggling 3 balls.
+- He adds 1 ball to his juggling act each week. So, after the first week, he has 4 balls, after the second week he has 5 balls, after the third week he has 6 balls, and after the fourth week he has 7 balls.
+- After the end of the fourth week the talent show begins, so Josh has 7 balls.
+- Josh slips and drops three of his balls. So, he now has 7 - 3 = 4 balls.
+- 2 of them are caught by people in the crowd, so he gets these back. So, he now has 4 + 2 = 6 balls.
+- One ball gets lost completely, so he now has 6 - 1 = 5 balls.
+So, Josh starts to juggle on stage with 5 balls. answer: 4
+First, calculate how much the factory made per day when they were making tractors:
+10 tractors/day * $100/tractor = $1000/day
+
+Next, calculate how much the factory makes per day now that they're making silos:
+5 silos/day * $220/silo = $1100/day
+
+Subtract the old daily earnings from the new daily earnings to find the increase:
+$1100/day - $1000/day = $100/day
+
+Then divide the increase by the old daily earnings and multiply by 100% to express the answer as a percentage:
+$100/day / $1000/day * 100% = 10%. 
+
+So the factory is making 10% more per day now. answer: 10
+From the information given:
+
+- Erin scored 14 points.
+- After scoring these points, Erin has three times more points than Sara.
+- Sara scored 8 points.
+
+So, Erin has 3 * 8 = <<3*8=24>>24 points after scoring the 14 points.
+
+Therefore, before scoring the 14 points, Erin had 24 - 14 = <<24-14=10>>10 points. Answer: \boxed{10}. answer: 18
+1. First, we need to calculate how much energy the air conditioner uses in an hour. We know it uses 900 watts, but the question asks for the answer in kilowatts. To convert watts to kilowatts, we divide by 1000. So, 900 watts = 0.9 kilowatts.
+
+2. Next, we need to calculate how much energy the air conditioner uses in 5 hours (the amount of time Mel plans to reduce). So, 0.9 kilowatts x 5 hours = 4.5 kilowatt-hours.
+
+3. Finally, we need to calculate how much energy Mel will save in 30 days. So, 4.5 kilowatt-hours x 30 days = 135 kilowatt-hours.
+
+So, Mel will save 135 kilowatt-hours of electric energy in 30 days if he reduces the time he uses the air conditioner by 5 hours a day. answer: 81
+1. Allan initially has 40 cannolis in his house.
+2. He has twice as much corn as cannolis in his house, so he has 2*40 = <<2*40=80>>80 corns.
+3. Allan bought 60 more cannolis at the store, so he now has 40+60 = <<40+60=100>>100 cannolis.
+4. He bought 40 fewer corns than the number of cannolis, so he bought 60-40 = <<60-40=20>>20 corns.
+5. Now, Allan has 80+20 = <<80+20=100>>100 corns in his house.
+6. The combined total of the number of corns and cannolis Allan has in the house is 100+100 = <<100+100=200>>200. Answer: \boxed{200}. answer: 200
+Step 1: Calculate how many apples Marin eats in 30 days. 
+Marin eats 4 apples a day, so in 30 days he eats 4 * 30 = 120 apples.
+
+Step 2: Calculate how many apples Nancy eats in 30 days. 
+Nancy also eats 4 apples a day, so in 30 days she eats 4 * 30 = 120 apples.
+
+Step 3: Add the number of apples Marin and Nancy eat together in 30 days. 
+Together, Marin and Nancy eat 120 + 120 = 240 apples in 30 days.
+
+So, Marin and Nancy eat 240 apples in 30 days. answer: 150
+The human pyramid consists of 4 layers. 
+
+1. The bottom layer has 4 cheerleaders who are each 64" tall. However, since they are standing side by side, they contribute only 64" to the height of the pyramid.
+2. The second layer has 3 cheerleaders who are each 64" tall. Again, they contribute only 64" to the height of the pyramid.
+3. The third layer has 2 cheerleaders who are each 64" tall. They contribute 64" to the height of the pyramid.
+4. The top layer has the shortest cheerleader who is 60" tall. She contributes 60" to the height of the pyramid.
+
+Adding these up, the total height of the pyramid in inches is 64" + 64" + 64" + 60" = 252".
+
+To convert this to feet, we divide by 12 (since there are 12 inches in a foot). 
+
+So, the height of the human pyramid is 252" ÷ 12 = 21 feet. answer: 21
+First, find out how many bags Tara bought in total:
+8 packs * 5 bags/pack = 40 bags
+
+Then find out how much she spent on the bags:
+8 packs * $4/pack = $32
+
+Next, find out how much she earned from selling the bags:
+40 bags * $8/bag = $320
+
+Finally, subtract the cost from the earnings to find the profit:
+$320 - $32 = $288
+
+So, Tara earned a profit of $288 on her bags. answer: 160
+1. The total number of kids is 20, divided into two equal groups of girls and boys. So, there are 10 boys and 10 girls.
+
+2. Each boy brought back 60 seashells. So, the total number of seashells brought by the boys is 60 * 10 = 600 seashells.
+
+3. The girls brought an amount equal to the number of shells brought by the boys plus four times as many seashells as the boys. So, the total number of seashells brought by the girls is 600 (the same as the boys) + 4 * 600 (four times as many as the boys) = 600 + 2400 = 3000 seashells.
+
+4. Since there are 10 girls, the number of seashells brought by each girl is 3000 / 10 = 300 seashells.
+
+So, each girl brought back 300 seashells. answer: 300
+1. Alex invites 100 people via email.
+2. Each invited person says that they will also invite 2 of their friends. So, 100 people * 2 friends = 200 friends.
+3. She then calls 10 of her friends to invite them too.
+4. 8 of them say they will be bringing their spouses. So, 8 friends * 1 spouse = 8 spouses.
+
+Adding all these up, Alex will need 100 (email invites) + 200 (friends of email invites) + 10 (phone invites) + 8 (spouses of phone invites) = 318 seats. answer: 319
+Day 1: The beanstalk is 4 feet tall.
+Day 2: The beanstalk is 4*2 = 8 feet tall.
+Day 3: The beanstalk is 8*2 = 16 feet tall.
+Day 4: The beanstalk is 16*2 = 32 feet tall.
+
+So, it will take 4 days for the beanstalk to be taller than Mark's window. answer: 3
+First, calculate the cost to repave Monica's street:
+$194/meter * 150 meters = $29,100
+
+Next, calculate the cost to repave Lewis' street:
+$194/meter * 490 meters = $94,860
+
+Finally, subtract the cost of Monica's street from the cost of Lewis' street to find the difference:
+$94,860 - $29,100 = $65,760
+
+So, it costs $65,760 more to repave Lewis' street than Monica's street. answer: 65,960
+1. Fishio initially received 2000 likes on her selfie.
+2. Three weeks later, the number of likes was 70 times the initial number, which is 70 * 2000 = 140000 likes.
+3. She received 20000 more new likes recently.
+
+So, the total number of Instagram likes Fishio has is 140000 (likes after three weeks) + 20000 (new likes) = 160000 likes. answer: 162000
+- James currently has 4 toys for 4 dogs.
+- There are 8 more dogs in the shelter now, so he needs 8 more toys. This makes a total of 4 + 8 = 12 toys.
+- After buying the toys, there are twice as many more dogs than when he left. This means there are 2 * 12 = 24 dogs in the shelter now, so he needs 24 toys.
+- When James came back yet again, 3 dogs were gone. So, he needs 24 - 3 = 21 toys in total. answer: 33
+Step 1: Determine the current number of groups. The problem states that there are currently six groups.
+
+Step 2: Determine the required number of groups. The problem states that the activity requires 12 groups.
+
+Step 3: Subtract the current number of groups from the required number of groups to find out how many more groups are needed. 
+
+So, 12 (required groups) - 6 (current groups) = 6 more groups are needed. 
+
+Answer: \boxed{6}. answer: 3
+Step 1: Convert dozens to individual units. 1 dozen equals 12 units. So, 8 dozen glasses equals 8*12 = 96 glasses. Similarly, 4 dozen plates equals 4*12 = 48 plates.
+
+Step 2: Subtract the number of broken items from the total. For the glasses, 96 - 10 = 86 glasses. For the plates, 48 - 6 = 42 plates.
+
+So, Jeff now has 86 glasses and 42 plates. answer: 128
+First, let's calculate how many small stickers Lorraine trades for large buttons. 90% of 30 small stickers is 27 small stickers. 
+
+Next, let's calculate how many large stickers Lorraine trades for large buttons. 50% of 40 large stickers is 20 large stickers. 
+
+So, Lorraine trades 27 small stickers for 27 small buttons and 20 large stickers for 20 large buttons. 
+
+Now, let's calculate how many large stickers Lorraine trades for small buttons. She has 20 large stickers left, and each large sticker is worth three small buttons, so she gets 60 small buttons. 
+
+In total, Lorraine has 27 small buttons + 20 large buttons + 60 small buttons = 107 buttons. 
+
+So, Lorraine has 107 buttons by the end. answer: 89
+1. Ezra read 300 books in one hour.
+2. Ezra decided to read 150 more books, so in total Ezra read 300 + 150 = 450 books.
+3. Ezra read twice as many books as Ahmed in one hour, so Ahmed read 300 / 2 = 150 books.
+4. Altogether, Ezra and Ahmed read 450 + 150 = 600 books. Answer: \boxed{600}. answer: 675
+1. First, calculate the total distance the Llesis family drove. They drove for 6 hours at an average speed of 50 miles per hour, so they drove 6 * 50 = <<6*50=300>>300 miles.
+
+2. Then, calculate the speed at which the Llesis family hiked. They hiked at a speed 5 miles per hour less than half their driving speed, so they hiked at 50 / 2 - 5 = <<50/2-5=20>>20 miles per hour.
+
+3. Then, calculate the total distance the Llesis family hiked. They hiked for 1.5 hours at an average speed of 20 miles per hour, so they hiked 1.5 * 20 = <<1.5*20=30>>30 miles.
+
+4. Finally, add the distance the Llesis family drove to the distance they hiked to find the total distance to their vacation spot. They drove 300 miles and hiked 30 miles, so their vacation spot was 300 + 30 = <<300+30=330>>330 miles away. Answer: \boxed{330}. answer: 255
+From the problem, we can understand that:
+
+- Chase and Rider ride their bikes thrice a day for 5 days. So, they ride 3 times/day * 5 days = 15 times in 5 days.
+- On two other days, they ride twice the times they do on usual days. So, they ride 3 times/day * 2 = 6 times/day. Therefore, they ride 6 times/day * 2 days = 12 times in 2 days.
+
+Adding these up, Chase and Rider ride their bikes 15 times + 12 times = 27 times in a week. answer: 54
+1. First, we need to find out how many groups were formed. We do this by dividing the total number of people by the number of people in each group. So, 90 people / 9 people per group = 10 groups.
+
+2. Next, we need to find out how many of these groups brought back seashells. We do this by multiplying the total number of groups by 3/5. So, 10 groups * 3/5 = 6 groups.
+
+3. Then, we need to find out how many seashells each of these groups brought back. We know that each group brought back 2 seashells per person, and there are 9 people in each group. So, 2 seashells per person * 9 people = 18 seashells per group.
+
+4. Finally, we need to find out how many seashells all of these groups brought back in total. We do this by multiplying the number of groups that brought back seashells by the number of seashells each group brought back. So, 6 groups * 18 seashells per group = 108 seashells.
+
+So, the groups brought back a total of 108 seashells. answer: 108
+First, let's calculate the total number of employees each month:
+
+- In the first month, the company has 200 employees.
+- In the second month, the company hires 20 new employees, so the total number of employees becomes 200 + 20 = 220.
+- In the third month, the company hires another 20 new employees, so the total number of employees becomes 220 + 20 = 240.
+
+Next, let's calculate the total salary paid each month:
+
+- In the first month, the company pays 200 employees * $4000/employee = $800,000.
+- In the second month, the company pays 220 employees * $4000/employee = $880,000.
+- In the third month, the company pays 240 employees * $4000/employee = $960,000.
+
+Finally, let's add up the total salary paid over the three months:
+
+$800,000 (first month) + $880,000 (second month) + $960,000 (third month) = $2,640,000.
+
+So, the company pays a total of $2,640,000 to its employees after three months. answer: 2880000
+Dale started off with 100 butterscotch candies.
+He sold 150 candies, which means he sold 50 more than he had initially.
+So, when he ordered 100 more candies, he still had 50 candies left to sell from his previous order.
+Therefore, Dale still needs to sell 100 + 50 = <<100+50=150>>150 butterscotch candies to sell all of his candy. Answer: \boxed{150}. answer: 50
+First, we need to convert the playing time from hours to minutes. 4 hours is equal to 4*60 = <<4*60=240>>240 minutes.
+
+Jack can play a game with 1 quarter for 20 minutes. So, in 240 minutes, he will need 240/20 = <<240/20=12>>12 quarters.
+
+Two of his friends can only play half as long as Jack, which is 20/2 = <<20/2=10>>10 minutes. So, each of them will need 240/10 = <<240/10=24>>24 quarters. Since there are two of them, they will need a total of 24*2 = <<24*2=48>>48 quarters.
+
+One friend can play for 1.5 times as long as Jack, which is 20*1.5 = <<20*1.5=30>>30 minutes. So, he will need 240/30 = <<240/30=8>>8 quarters.
+
+Adding up all the quarters, they will need 12 + 48 + 8 = <<12+48+8=68>>68 quarters.
+
+Since 1 quarter is equal to $0.25, they will need 68*$0.25 = $<<68*0.25=17>>17. Answer: \boxed{17}. answer: 11
+Let's denote the amount of citrus zest and fragrance as x (since they are equal), the amount of salt and sugar as y (since they are equal), and the amount of oil as z.
+
+From the problem, we know that:
+
+1. The total amount of all ingredients is 10 ounces: x + x + y + y + z = 10.
+2. The amount of salt (y) is twice the amount of zest (x): y = 2x.
+3. The amount of oil (z) is twice the amount of salt (y): z = 2y.
+
+Substituting y and z into the first equation, we get:
+
+x + x + 2x + 2x + 4x = 10
+10x = 10
+x = 1
+
+Substituting x into the second equation, we get:
+
+y = 2*1 = 2
+
+Substituting y into the third equation, we get:
+
+z = 2*2 = 4
+
+So, Tanya uses 4 ounces of oil in her salt scrub recipe. answer: 4
+1. Sasha scored 14 points in the first game.
+2. Julie scored 4 fewer points than Sasha in the first game, which means Julie scored 14 - 4 = 10 points.
+3. Sasha scored 6 fewer points in the second game than Julie's score in the first game, which means Sasha scored 10 - 6 = 4 points in the second game.
+4. To find the total points Sasha scored in both games, we add her scores from the first and second games: 14 + 4 = 18 points. 
+
+So, Sasha scored a total of 18 points during both games. answer: 14
+First, calculate the total time Britany spends recording TikTok videos each week:
+18 videos * 4 minutes/video = <<18*4=72>>72 minutes/week
+
+Then convert that time to hours by dividing by the number of minutes per hour:
+72 minutes / 60 minutes/hour = <<72/60=1.2>>1.2 hours/week
+
+Then calculate the total time Britany spends doing her makeup each week:
+15 minutes/day * 6 days/week = <<15*6=90>>90 minutes/week
+
+Then convert that time to hours by dividing by the number of minutes per hour:
+90 minutes / 60 minutes/hour = <<90/60=1.5>>1.5 hours/week
+
+Then add the time Britany spends recording videos, writing songs, and doing her makeup to find the total time she spends on TikTok each week:
+1.2 hours/week + 2 hours/week + 1.5 hours/week = <<1.2+2+1.5=4.7>>4.7 hours/week
+
+Then multiply the weekly time by the number of weeks per month to find the monthly time:
+4.7 hours/week * 4 weeks/month = <<4.7*4=18.8>>18.8 hours/month. Answer: \boxed{18.8}. answer: 1128
+First, we need to find the speed of a kangaroo. Since it takes 3 kangaroos 18 hours to travel across the highway, it means that one kangaroo would take 18 hours as well because they are all traveling at the same speed.
+
+Next, we know that each turtle travels at half the speed of a kangaroo. This means that a turtle would take twice as long to travel the same distance. Therefore, one turtle would take 18 hours * 2 = 36 hours to travel across the highway.
+
+Finally, the question asks for the time it will take for four turtles to travel across the highway. Since all the turtles are traveling at the same speed, it would still take them 36 hours to travel across the highway.
+
+So, it will take four turtles 36 hours to travel across the highway. answer: 48
+Day 1: 10 people are infected.
+
+Day 2: Each of the 10 people infects 6 others, so 10*6 = 60 new people are infected. Adding the original 10, we have 10 + 60 = 70 people infected in total.
+
+Day 3: Each of the 70 people infects 6 others, so 70*6 = 420 new people are infected. Adding the 70 from the previous day, we have 70 + 420 = 490 people infected in total.
+
+So, after three days, 490 people are infected. answer: 3430
+1. On Tuesday, they make 125 chimichangas.
+2. On Wednesday, they also make 125 chimichangas.
+3. On Friday, they make twice as many as they do on Tuesday and Wednesday combined. So, they make 2 * (125 + 125) = 2 * 250 = 500 chimichangas.
+
+Adding these all together, the Ben and Aggie Burrito Shop makes 125 + 125 + 500 = 750 chimichangas on Tuesdays, Wednesdays, and Fridays. answer: 500
+1. The pot of soup can fill four adult's bowls or eight child's bowls.
+2. Calvin and his wife are adults and will be eating, so they will consume 2 adult bowls of soup.
+3. Their two children will also be eating, so they will consume 2 child bowls of soup.
+4. Subtract the amount of soup consumed from the total amount of soup.
+
+Calculation:
+The pot of soup can fill 4 adult bowls or 8 child bowls. 
+Since 1 adult bowl is equivalent to 2 child bowls, Calvin and his wife will consume 2 adult bowls which is equivalent to 4 child bowls.
+Their two children will consume 2 child bowls.
+So, in total, they will consume 4 (from adults) + 2 (from children) = 6 child bowls of soup.
+
+The pot originally had enough soup for 8 child bowls. After the meal, there will be 8 - 6 = 2 child bowls of soup left.
+
+Therefore, each child will be able to have a bowl of soup for lunch from the leftover soup once. answer: 1
+First, we need to figure out how many hours Vince was stapling reports. From 8:00 AM to 11:00 PM is 15 hours.
+
+Next, we need to figure out how many 15-minute intervals are in 15 hours. Since there are 4 15-minute intervals in an hour (60 minutes / 15 minutes = 4), there are 4 * 15 = <<4*15=60>>60 15-minute intervals in 15 hours.
+
+Since Vince can staple 30 reports every 15 minutes, he can staple 30 * 60 = <<30*60=1800>>1800 reports in 15 hours. Answer: \boxed{1800}. answer: 360
+Step 1: Understand that Courtney reported the audience was 48 in number.
+Step 2: Understand that Kelly said Courtney had overstated the number of people in attendance by 20%.
+Step 3: To find the real number of people in attendance, we need to reduce Courtney's reported number by 20%.
+Step 4: Calculate 20% of 48. This is done by multiplying 48 by 20/100, which equals 9.6.
+Step 5: Subtract this number from Courtney's reported number to find the real number of people in attendance. This is done by subtracting 9.6 from 48, which equals 38.4.
+Step 6: Since the number of people cannot be a decimal, we round this number to the nearest whole number. Therefore, the real number of people in attendance was approximately 38. answer: 40
+The tickets for travel cost 50% more than the supplies, which cost $400. 
+
+50% of $400 is $400 * 50/100 = $<<400*50/100=200>>200. 
+
+So, the tickets for travel cost $400 + $200 = $<<400+200=600>>600. Answer: \boxed{600}. answer: 1000
+First, we need to find out how much all the books cost together. 
+
+The dictionary costs $18.
+The dinosaur book costs $13.
+The children's cookbook costs $8.
+
+So, the total cost of the books is $18 + $13 + $8 = $39.
+
+Tyler has already saved $14, so he needs to earn $39 - $14 = $25 more to afford the books.
+
+Tyler earns $5 per hour, so he needs to work $25 ÷ $5 = 5 hours to afford the books. 
+
+So, Tyler has to work 5 hours to afford his books. answer: 5
+To find out the latest time Jordan can start making the cake, we need to add up all the time it takes to make the cake.
+
+- Making the cake batter: 20 minutes
+- Baking the cake: 30 minutes
+- Cooling the cake: 2 hours = 120 minutes
+- Frosting the cake: 10 minutes
+
+Total time to make the cake = 20 minutes + 30 minutes + 120 minutes + 10 minutes = 180 minutes
+
+180 minutes is equal to 3 hours.
+
+So, if the cake needs to be ready by 5:00 pm, Jordan needs to start making the cake 3 hours before that.
+
+5:00 pm - 3 hours = 2:00 pm
+
+So, the latest time Jordan can start making the cake is 2:00 pm. answer: 2
+Step 1: Calculate the price increase for the first year.
+5% of $120 is $6. So, the price of the carrots after the first year would be $120 + $6 = $126.
+
+Step 2: Calculate the price increase for the second year.
+5% of $120 is $6. So, the price of the carrots after the second year would be $126 + $6 = $132.
+
+Step 3: Calculate the price increase for the third year.
+5% of $120 is $6. So, the price of the carrots after the third year would be $132 + $6 = $138.
+
+So, the price of the carrots after three years would be approximately $138. answer: 138
+First, we need to find out how many pictures Olivia put in each album. Since she uploaded 72 pictures and put them into 8 albums, we divide 72 by 8. 
+
+72 ÷ 8 = 9 pictures per album
+
+Next, we find out how many selfies and portraits she had. Since 3 of the albums were selfies only, we multiply the number of albums by the number of pictures per album.
+
+3 albums * 9 pictures per album = 27 selfies
+
+Similarly, since 2 of the albums were portraits, we multiply the number of albums by the number of pictures per album.
+
+2 albums * 9 pictures per album = 18 portraits
+
+So, Olivia had 27 selfies and 18 portraits. answer: 45
+1. Calculate the total amount of loans Jim took out for college: $50,000 per year * 4 years = $200,000.
+2. Calculate the total amount of money Jim lost from not working while in school: $25,000 per year * 4 years = $100,000.
+3. Add the total amount of loans and the total amount of money lost to find the total amount Jim needs to earn to break even: $200,000 + $100,000 = $300,000.
+4. Calculate Jim's new income after college: $25,000 * 3 = $75,000 per year.
+5. Divide the total amount Jim needs to earn by his new income to find out how long it would take him to earn that amount: $300,000 / $75,000 per year = 4 years. 
+
+So, it would take Jim 4 years to earn the money equivalent to the loans and the money lost from not working while in school. answer: 4
+1. On the first race, Johnny's dad lost $5.
+2. On the second race, he won $1 more than twice the amount he previously lost. So, he won $1 + 2*$5 = $11.
+3. On the third race, he lost 1.5 times as much as he won in the second race. So, he lost 1.5 * $11 = $16.5.
+
+Now, let's calculate the total amount of money Johnny's dad lost that day. He lost $5 in the first race, won $11 in the second race, and lost $16.5 in the third race. So, the total amount he lost is $5 - $11 + $16.5 = $10.5.
+
+Since there were 3 races that day, the average amount of money that Johnny's dad lost per race is $10.5 / 3 = $3.5. answer: 3
+Step 1: Calculate the total number of days worked.
+There are 7 days in a week, so over 3 weeks, the painters worked for 7 * 3 = 21 days.
+
+Step 2: Calculate the total number of hours worked each day.
+A day is typically considered to be 24 hours, so 3/8ths of a day would be 24 * 3/8 = 9 hours.
+
+Step 3: Calculate the total number of hours worked over the 3 weeks.
+This would be 21 days * 9 hours/day = 189 hours.
+
+Step 4: Divide the total number of hours by the number of painters to find the number of hours each painter worked.
+This would be 189 hours / 4 painters = 47.25 hours.
+
+So, each painter worked for 47.25 hours over the 3 weeks. answer: 189
+Step 1: Identify the initial price of the car. In this case, it is $20000.
+
+Step 2: Identify the rate of depreciation. In this case, it is 21% or 0.21 in decimal form.
+
+Step 3: Identify the number of years the car has depreciated. In this case, it is 2010 - 2007 = 3 years.
+
+Step 4: Calculate the price of the car after each year of depreciation. 
+
+After the first year (2008), the price of the car would be $20000 - ($20000 * 0.21) = $15800.
+
+After the second year (2009), the price of the car would be $15800 - ($15800 * 0.21) = $12498.
+
+After the third year (2010), the price of the car would be $12498 - ($12498 * 0.21) = $9873.42.
+
+So, the price of the car in the year 2010 would be approximately $9873.42. answer: 7400
+1. The Allosaurus ate the last 270 kilograms of meat, which was half of what was left after the velociraptors scavenged. So, before the Allosaurus ate, there were 270 kg * 2 = 540 kg of meat left.
+
+2. The 540 kg was half of what was left after the T-Rex ate. So, before the velociraptors scavenged, there were 540 kg * 2 = 1080 kg of meat left.
+
+3. The 1080 kg was half of the original weight of the triceratops. So, the triceratops weighed 1080 kg * 2 = 2160 kg before the T-Rex ate. 
+
+So, there were 2160 kilograms of meat on the triceratops before the T-Rex ate. answer: 1080
+First, let's calculate how many toys the first 4 workers produce in total during their 10-hour shift.
+
+The two workers who produce 6 toys an hour will produce 6 toys/hour * 10 hours = <<6*10=60>>60 toys each, so in total they will produce 60 toys * 2 workers = <<60*2=120>>120 toys.
+
+The other two workers who produce 4 toys an hour will produce 4 toys/hour * 10 hours = <<4*10=40>>40 toys each, so in total they will produce 40 toys * 2 workers = <<40*2=80>>80 toys.
+
+So, the first 4 workers produce 120 toys + 80 toys = <<120+80=200>>200 toys in total during their 10-hour shift.
+
+The manufacturer still needs another 20 toys to be able to ship the order, so the fifth worker must have produced 400 toys - 200 toys - 20 toys = <<400-200-20=180>>180 toys during their 10-hour shift.
+
+Therefore, the fifth worker produces 180 toys / 10 hours = <<180/10=18>>18 toys per hour. Answer: \boxed{18}. answer: 18
+Abraham owns 80 square meters of unused land.
+
+- He sold half of the land (80/2 = 40 square meters) for $50.
+- He then sold another 1/4 of his land (80/4 = 20 square meters) for $30.
+- This leaves him with 80 - 40 - 20 = 20 square meters of land.
+- He sold the remaining land for $3 per square meter, which gives him 20 * $3 = $60.
+
+So, in total, Abraham will be able to earn $50 (from the first sale) + $30 (from the second sale) + $60 (from the final sale) = $140 after selling all his unused land. answer: 170
+So, it would take Jim 4 years to earn the money equivalent to the loans and the money lost from not1. The teacher starts with a 5-inch piece of chalk.
+2. On Monday, he used up 45% of the chalk. This means he used 0.45 * 5 = 2.25 inches of chalk.
+3. This leaves him with 5 - 2.25 = 2.75 inches of chalk after Monday.
+4. After Monday, the teacher plans to use only 20% of the chalk each day. This means he will use 0.20 * 2.75 = 0.55 inches of chalk each day.
+5. The teacher recycles the chalk when it is smaller than 2 inches. This means he can use the chalk until it is 2 inches long.
+6. So, the teacher has 2.75 - 2 = 0.75 inches of chalk to use before he has to recycle it.
+7. This means he can use the chalk for 0.75 / 0.55 = approximately 1.36 days.
+8. Since the teacher cannot use the chalk for a fraction of a day, he can use the chalk for 1 more day before he has to recycle it.
+
+So, the teacher has 1 more day before he has to recycle the piece of chalk. answer: 2
+First, we need to find out how many teeth the dentist caps. The dentist caps 7 more teeth than he drills, so he caps 4 + 7 = <<4+7=11>>11 teeth.
+
+Next, we need to find out how many teeth the dentist fixes in total. He drills 4 teeth and caps 11 teeth, but the teeth he drills are also part of the teeth he caps. So, the dentist fixes 11 teeth in total.
+
+Finally, we need to find out what percentage of James' teeth the dentist fixes. To do this, we divide the number of teeth the dentist fixes by the total number of teeth James has and multiply by 100 to get the percentage.
+
+The percentage of teeth the dentist fixes is (11 / 30) * 100 = 36.67%.
+
+So, the dentist fixes approximately 37% of James' teeth. answer: 50
+Let's break down the information:
+
+- On the first day, the nurses used 38 bandages and ordered one bulk pack of bandages. This means they added 50 bandages to their stock.
+- On the second day, they used ten fewer bandages than the first day, which means they used 28 bandages.
+- On the third day, they ordered two bulk packs of bandages (which is 100 bandages) and only used half a pack (which is 25 bandages).
+- They had 78 bandages left at the end of the third day.
+
+So, if we add up all the bandages they used and subtract that from the total number of bandages they had at the end, we can find out how many bandages they started with.
+
+Total bandages used = 38 (first day) + 28 (second day) + 25 (third day) = 91 bandages
+
+Total bandages ordered = 50 (first day) + 100 (third day) = 150 bandages
+
+If they had 78 bandages left at the end of the third day, this means they started with:
+
+Total bandages ordered + bandages they started with - total bandages used = bandages left at the end
+
+150 + bandages they started with - 91 = 78
+
+So, bandages they started with = 78 + 91 - 150 = 19 bandages. 
+
+Therefore, the nurses’ station started with 19 bandages on the first day. answer: 19
+Fred initially made 24 gallons of root beer.
+
+His children drank 4 gallons, leaving 24 - 4 = <<24-4=20>>20 gallons.
+
+His wife spilled 7 gallons, leaving 20 - 7 = <<20-7=13>>13 gallons.
+
+His friend Ronnie drank 5 gallons, leaving 13 - 5 = <<13-5=8>>8 gallons.
+
+On the fourth day, 3 people showed up for the party, including Fred, so there were 4 people in total.
+
+So, each person had 8 / 4 = <<8/4=2>>2 gallons of root beer to drink during the party. Answer: \boxed{2}. answer: 2
+First, let's calculate the total time spent on meditation:
+
+Charisma meditates twice a day, so she spends 15 minutes * 2 = <<15*2=30>>30 minutes on meditation per day.
+
+There are 7 days in a week, so she spends 30 minutes/day * 7 days/week = <<30*7=210>>210 minutes on meditation per week.
+
+Over 4 weeks, she spends 210 minutes/week * 4 weeks = <<210*4=840>>840 minutes on meditation.
+
+Next, let's calculate the total time spent on yoga:
+
+Charisma practices yoga for 1 hour per session, 5 days a week. So, she spends 1 hour/day * 5 days/week = <<1*5=5>>5 hours on yoga per week.
+
+Over 4 weeks, she spends 5 hours/week * 4 weeks = <<5*4=20>>20 hours on yoga.
+
+However, we need to convert this time to minutes to match the units of the meditation time. There are 60 minutes in an hour, so she spends 20 hours * 60 minutes/hour = <<20*60=1200>>1200 minutes on yoga.
+
+Finally, let's add the time spent on meditation and yoga to find the total time spent on these activities:
+
+840 minutes (meditation) + 1200 minutes (yoga) = <<840+1200=2040>>2040 minutes.
+
+So, Charisma spends 2040 minutes on meditation and yoga practice in 4 weeks. answer: 34
+1. Dr. Grumpus requested 16 test tubes, but Igor gathered half as many. So, Igor gathered 16/2 = <<16/2=8>>8 test tubes.
+2. Dr. Grumpus requested 14 Petri dishes, and Igor gathered two more beakers than this. So, Igor initially gathered 14 + 2 = <<14+2=16>>16 beakers.
+3. The total number of items Igor placed on the lab bench was 29. This includes the 8 test tubes and the unknown number of Petri dishes and beakers.
+4. If we subtract the number of test tubes from the total number of items, we get the combined number of Petri dishes and beakers that Igor placed on the bench. So, 29 - 8 = <<29-8=21>>21 items are either Petri dishes or beakers.
+5. We know that Dr. Grumpus requested 14 Petri dishes, and Igor did not make a mistake with this number. So, out of the 21 items, 14 are Petri dishes.
+6. This means that the remaining items are beakers. So, 21 - 14 = <<21-14=7>>7 beakers were placed on the bench.
+7. But Igor initially gathered 16 beakers. So, the number of beakers Igor lost is 16 - 7 = <<16-7=9>>9 beakers. Answer: \boxed{9}. answer: 2
+First, we need to find out how much money each girl raised.
+
+Kim raised $320 more than Alexandra, who raised $430. So, Kim raised $430 + $320 = $<<430+320=750>>750.
+
+Maryam raised $400 more than Sarah, who raised $300. So, Maryam raised $300 + $400 = $<<300+400=700>>700.
+
+Now, we add up all the money raised by the girls.
+
+Alexandra raised $430.
+Kim raised $750.
+Sarah raised $300.
+Maryam raised $700.
+
+So, in total, the girls raised $430 + $750 + $300 + $700 = $<<430+750+300+700=2180>>2180. Answer: \boxed{2180}. answer: 2280
